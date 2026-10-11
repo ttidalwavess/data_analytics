@@ -1,0 +1,1 @@
+надо скачать pip install pydantic
